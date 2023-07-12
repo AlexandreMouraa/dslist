@@ -88,14 +88,24 @@ public class Game
         this.genre = genre;
     }
 
-    public String getPlatform() 
+    public String getPlatforms() 
     {
         return platforms;
     }
 
-    public void setPlatform(String platforms) 
+    public void setPlatforms(String platforms) 
     {
         this.platforms = platforms;
+    }
+
+    public Double getScore() 
+    {
+        return score;
+    }
+
+    public void setScore(Double score) 
+    {
+        this.score = score;
     }
 
     public String getImgUrl() 
@@ -153,16 +163,6 @@ public class Game
         } else if (!id.equals(other.id))
             return false;
         return true;
-    }
-
-    public Double getScore() 
-    {
-        return score;
-    }
-
-    public void setScore(Double score) 
-    {
-        this.score = score;
     }
     
 }
