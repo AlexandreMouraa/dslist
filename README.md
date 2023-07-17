@@ -2,7 +2,7 @@
 
 <h1 align="center">Ideia Geral do Projeto</h1>
 
-     Um projeto de estudo feito com o Professor Nélio Alves da devsuperior, no qual ele ensina a criar uma aplicação RESTful em java e usando framworks como o Spring Boot para a aplicação Web. O front-End desse projeto ainda será feito e colocado em outro repositório.
+**Um projeto de estudo feito com o Professor Nélio Alves da devsuperior, no qual ele ensina a criar uma aplicação RESTful em java e usando framworks como o Spring Boot para a aplicação Web. O front-End desse projeto ainda será feito e colocado em outro repositório.**
 
 ## Calendário das aulas
 
